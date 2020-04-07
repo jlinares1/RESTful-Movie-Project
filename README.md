@@ -12,8 +12,8 @@ https://github.com/jlinares1/RESTful-Movie-Projct
 
 * [Spring Framework](https://spring.io/) - The web framework used
 * [Postman](https://www.postman.com/) - API Client
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE used
 * [MySQL Database](https://www.mysql.com/)- database used to store the movies
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE used
 
 ## Author ##
 * **Juan Linares** - *developer* - [jlinares1](https://github.com/jlinares1)
